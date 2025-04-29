@@ -1,5 +1,3 @@
-package inheritance;
-
 public class Employee {
 
     String name;
